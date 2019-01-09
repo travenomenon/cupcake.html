@@ -12,6 +12,13 @@ img {
 
 }
 
-p.about {
+.about {
   font-weight: bold;
+
+}
+
+.word-type {
+  font-style: italic;
+  color: blue;
+  
 }
