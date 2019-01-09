@@ -20,5 +20,19 @@ img {
 .word-type {
   font-style: italic;
   color: blue;
-  
+
+}
+
+.sidebar {
+  width: 50%;
+  float: left;
+  background-color: purple;
+}
+
+.column {
+
+ width: 250px;
+ float: right;
+ background-color: green;
+
 }
